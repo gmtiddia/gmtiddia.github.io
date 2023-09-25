@@ -58,31 +58,31 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-          title: University of Cagliari
-          caption: 2020 - present
-          sub_title: PhD in Physics
-          # description: | # this will include new lines to allow paragraphs
+        title: University of Cagliari
+        caption: 2020 - present
+        sub_title: PhD in Physics
+        # description: | # this will include new lines to allow paragraphs
 
       - layout: left
-          title: University of Cagliari
-          caption: 2018 - 2020
-          sub_title: Master's Degree in Physics
-          description: | # this will include new lines to allow paragraphs
-              Under the supervision of Prof. Bruno Golosio, I wrote a thesis with title "Large scale simulations of cortical and thalamo-cortical networks of spiking neurons".
+        title: University of Cagliari
+        caption: 2018 - 2020
+        sub_title: Master's Degree in Physics
+        description: | # this will include new lines to allow paragraphs
+            Under the supervision of Prof. Bruno Golosio, I wrote a thesis with title "Large scale simulations of cortical and thalamo-cortical networks of spiking neurons".
       
       - layout: left
-          title: University of Cagliari
-          caption: 2020
-          sub_title: Excellence Program of the Master’s Degree in Physics
-          description: | # this will include new lines to allow paragraphs
-              An high level academic education program with additional activities.
+        title: University of Cagliari
+        caption: 2020
+        sub_title: Excellence Program of the Master’s Degree in Physics
+        description: | # this will include new lines to allow paragraphs
+            An high level academic education program with additional activities.
       
       - layout: left
-          title: Maastricht School of Management
-          caption: 2020
-          sub_title: Summer School
-          description: | # this will include new lines to allow paragraphs
-              As an activity of the Excellence Program of the Master’s Degree in Physics, I attended the Summer School entitled "Machine Learning and Data Mining with Python".
+        title: Maastricht School of Management
+        caption: 2020
+        sub_title: Summer School
+        description: | # this will include new lines to allow paragraphs
+            As an activity of the Excellence Program of the Master’s Degree in Physics, I attended the Summer School entitled "Machine Learning and Data Mining with Python".
 
       - layout: left
         title: University of Cagliari
