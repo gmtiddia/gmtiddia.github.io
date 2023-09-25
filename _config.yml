@@ -32,7 +32,7 @@ orcid_username: 0000-0001-7524-0285
 # Additional icon links
 additional_links:
 - title: ResearchGate
-  icon: fas researchgate
+  icon: fas fa-researchgate
   url: https://www.researchgate.net/profile/Gianmarco-Tiddia
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -49,6 +49,7 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Gianmarco and I'm a PhD student in Physics at the University of Cagliari (Italy).
+  
   My research interests include the study of the neuronal dynamcis of biological neural networks through spiking neural network simulations and mean-field approaches.
   I contribute to the GPU-based spiking network simulator NEST GPU, implementing several network models and validating the statistical measures of the neural activity against the well-known simulator NEST.
 
@@ -58,36 +59,36 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: University of Cagliari
+        title: PhD in Physics
         caption: 2020 - present
-        sub_title: PhD in Physics
+        sub_title: University of Cagliari
         # description: | # this will include new lines to allow paragraphs
 
       - layout: left
-        title: University of Cagliari
+        title: Master's Degree in Physics
         caption: 2018 - 2020
-        sub_title: Master's Degree in Physics
+        sub_title: University of Cagliari
         description: | # this will include new lines to allow paragraphs
             Under the supervision of Prof. Bruno Golosio, I wrote a thesis with title "Large scale simulations of cortical and thalamo-cortical networks of spiking neurons".
       
       - layout: left
-        title: University of Cagliari
+        title: Excellence Program of the Master’s Degree in Physics
         caption: 2020
-        sub_title: Excellence Program of the Master’s Degree in Physics
+        sub_title: University of Cagliari
         description: | # this will include new lines to allow paragraphs
             An high level academic education program with additional activities.
       
       - layout: left
-        title: Maastricht School of Management
+        title: Summer School
         caption: 2020
-        sub_title: Summer School
+        sub_title: Maastricht School of Management
         description: | # this will include new lines to allow paragraphs
             As an activity of the Excellence Program of the Master’s Degree in Physics, I attended the Summer School entitled "Machine Learning and Data Mining with Python".
 
       - layout: left
-        title: University of Cagliari
+        title: Bachelor's Degree in Physics
         caption: 2015 - 2018
-        sub_title: Bachelor's Degree in Physics
+        sub_title: University of Cagliari
         description: | # this will include new lines to allow paragraphs
             Under the supervision of Prof. Bruno Golosio, I wrote a thesis with title "Computational models of biological neural networks learning through synaptic plasticity".
 
@@ -115,12 +116,25 @@ content:
     content:
 
       - layout: left
-        title: INFN Sezione di Cagliari
+        title: ASIMOV prize, member of the committee
         caption: 2023
-        sub_title: ASIMOV prize, member of the committee
+        sub_title: INFN Sezione di Cagliari
         description: |
             I partecipated as a member of the scientific committee for the ASIMOV prize.
             In this regard, I evaluated reviews written by high school students on scientific dissemination books, and I proposed new books for the following edition of the ASIMOV prize. [[Certificate](/certifications/ASIMOV2023.pdf)
+
+      - layout: left
+        title: NEST Conference
+        caption: 15 June 2023 - 16 June 2023
+        sub_title: Partecipation
+        description: Partecipation at the NEST Conference (online) [[Certificate](/certifications/NEST_Conference_2023.pdf)]
+
+      - layout: left
+        title: NEST Conference
+        caption: 23 June 2022 - 24 June 2022
+        sub_title: Talk
+        description: Partecipation at the NEST Conference (online) presenting the talk "MPI parallel simulation of a multi-area spiking network model using NEST GPU"
+          [[Certificate](/certifications/NEST_Conference_2022.pdf)]
 
       - layout: left
         title: BASSES Workshop
@@ -129,9 +143,15 @@ content:
         description: Partecipation at the BASSES Workshop in Rome [[Certificate](/certifications/certificate_attendance_BASSES.pdf)]
 
       - layout: left
-        title: University of Cagliari
+        title: NEST Conference
+        caption: 28 June 2021 - 29 June 2021
+        sub_title: Partecipation
+        description: Partecipation at the NEST Conference (online) [[Certificate](/certifications/NEST_Conference_2021.pdf)]
+
+      - layout: left
+        title: Tutoring
         caption: February 2020 - June 2020
-        sub_title: Tutoring
+        sub_title: University of Cagliari
         description: Academic advisor in Physics Laboratory Course
 
 
@@ -170,8 +190,6 @@ content:
     
       
 
-    # Look at this cool image  
-    # ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 # footer_show_references: true
