@@ -32,7 +32,7 @@ orcid_username: 0000-0001-7524-0285
 # Additional icon links
 additional_links:
 - title: ResearchGate
-  icon: fa-brands fa-researchgate
+  icon: fab fa-researchgate
   url: https://www.researchgate.net/profile/Gianmarco-Tiddia
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -104,14 +104,18 @@ content:
     content: |
       - Bruno Golosio, Jose Villamar, **Gianmarco Tiddia**, Elena Pastorelli, Jonas Stapmanns, Viviana
         Fanti, Pier Stanislao Paolucci, Abigail Morrison, and Johanna Senk. Runtime construction of
-        large-scale spiking neuronal network models on gpu devices. Applied Sciences, volume 13, 2023. [doi](https://doi.org/10.3390/app13179598) 
+        large-scale spiking neuronal network models on gpu devices. Applied Sciences, volume 13, 2023. [doi](https://doi.org/10.3390/app13179598)
       - **Gianmarco Tiddia**, Bruno Golosio, Viviana Fanti, and Pier Stanislao Paolucci. Simulations
         of working memory spiking networks driven by short-term plasticity. Frontiers in Integrative
-        Neuroscience, volume 16, 2022. [doi](https://doi.org/10.3389/fnint.2022.972055) 
+        Neuroscience, volume 16, 2022. [doi](https://doi.org/10.3389/fnint.2022.972055)
       - **Gianmarco Tiddia**, Bruno Golosio, Jasper Albers, Johanna Senk, Francesco Simula, Jari
         Pronold, Viviana Fanti, Elena Pastorelli, Pier Stanislao Paolucci, and Sacha J. van Albada.
         Fast simulation of a multi-area spiking network model of macaque cortex on an MPI-GPU cluster.
-        Frontiers in Neuroinformatics, volume 16, 2022. [doi](https://doi.org/10.3389/fninf.2022.883333) 
+        Frontiers in Neuroinformatics, volume 16, 2022. [doi](https://doi.org/10.3389/fninf.2022.883333)
+      - Bruno Golosio, Chiara De Luca, Cristiano Capone, Elena Pastorelli, Giovanni Stegel, **Gianmarco 
+        Tiddia**, Giulia De Bonis, and Pier Stanislao Paolucci. Thalamo-cortical spiking model of
+        incremental learning combining perception, context and NREM-sleep. PLOS Computational
+        Biology, volume 17, pages 1–26. Public Library of Science, 06 2021. [doi](https://doi.org/10.1371/journal.pcbi.1009045)
       - Bruno Golosio, **Gianmarco Tiddia**, Chiara De Luca, Elena Pastorelli, Francesco Simula, and
         Pier Stanislao Paolucci. Fast Simulations of Highly-Connected Spiking Cortical Models Using
         GPUs. Frontiers in Computational Neuroscience, volume 15, 2021. [doi](https://doi.org/10.3389/fncom.2021.627620)
