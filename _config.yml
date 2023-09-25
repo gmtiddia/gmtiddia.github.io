@@ -32,7 +32,7 @@ orcid_username: 0000-0001-7524-0285
 # Additional icon links
 additional_links:
 - title: ResearchGate
-  icon: fas fa-globe
+  icon: fas researchgate
   url: https://www.researchgate.net/profile/Gianmarco-Tiddia
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
@@ -113,12 +113,6 @@ content:
   - title: Work Experience and Academic activities # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: left
-        title: University of Cagliari
-        caption: February 2020 - June 2020
-        sub_title: Tutoring
-        description: |
-          Academic advisor in Physics Laboratory Course
 
       - layout: left
         title: INFN Sezione di Cagliari
@@ -126,7 +120,20 @@ content:
         sub_title: ASIMOV prize, member of the committee
         description: |
             I partecipated as a member of the scientific committee for the ASIMOV prize.
-            In this regard, I evaluated reviews written by high school students on scientific dissemination books, and I proposed new books for the following edition of the ASIMOV prize. [[Certificate](/certifications/ASIMOV2023.pdf)]
+            In this regard, I evaluated reviews written by high school students on scientific dissemination books, and I proposed new books for the following edition of the ASIMOV prize. [[Certificate](/certifications/ASIMOV2023.pdf)
+
+      - layout: left
+        title: BASSES Workshop
+        caption: 13 June 2022 - 15 June 2022
+        sub_title: Partecipation
+        description: Partecipation at the BASSES Workshop in Rome [[Certificate](/certifications/certificate_attendance_BASSES.pdf)]
+
+      - layout: left
+        title: University of Cagliari
+        caption: February 2020 - June 2020
+        sub_title: Tutoring
+        description: Academic advisor in Physics Laboratory Course
+
 
   - title: Languages # Title for the section
     layout: list # Type of content section (list/text)
