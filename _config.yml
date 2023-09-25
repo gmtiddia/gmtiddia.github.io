@@ -126,7 +126,7 @@ content:
         sub_title: ASIMOV prize, member of the committee
         description: |
             I partecipated as a member of the scientific committee for the ASIMOV prize.
-            In this regard, I evaluated reviews written by high school students on scientific dissemination books, and I proposed new books for the following edition of the ASIMOV prize.
+            In this regard, I evaluated reviews written by high school students on scientific dissemination books, and I proposed new books for the following edition of the ASIMOV prize. [[Certificate](/gmtiddia.github.io/certifications/ASIMOV2023.pdf)]
 
   - title: Languages # Title for the section
     layout: list # Type of content section (list/text)
@@ -138,7 +138,7 @@ content:
       - layout: left
         title: English
         description:
-            Advanced [[Certification](https://bestr.it/verify/YAC7SPNATF)]
+            Advanced [[Certificate](https://bestr.it/verify/YAC7SPNATF)]
       - layout: left
         title: Sardinian
         description:
