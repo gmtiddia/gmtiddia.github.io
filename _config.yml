@@ -65,6 +65,12 @@ content:
         # description: | # this will include new lines to allow paragraphs
 
       - layout: left
+        title: Research Stay
+        caption: 21 September 2022 - 28 March 2023
+        sub_title: Forschungszentrum Jülich
+        description: Research stay at INM-6, in the group of Computational Neurophysics as part of the PhD program.
+
+      - layout: left
         title: Master's Degree in Physics
         caption: 2018 - 2020
         sub_title: University of Cagliari
