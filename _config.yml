@@ -56,72 +56,72 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
-      content:
-        - layout: left
-            title: University of Cagliari
-            caption: 2020 - present
-            sub_title: PhD in Physics
-            # description: | # this will include new lines to allow paragraphs
-
-        - layout: left
-            title: University of Cagliari
-            caption: 2018 - 2020
-            sub_title: Master's Degree in Physics
-            description: | # this will include new lines to allow paragraphs
-                Under the supervision of Prof. Bruno Golosio, I wrote a thesis with title "Large scale simulations of cortical and thalamo-cortical networks of spiking neurons".
-        
-        - layout: left
-            title: University of Cagliari
-            caption: 2020
-            sub_title: Excellence Program of the Master’s Degree in Physics
-            description: | # this will include new lines to allow paragraphs
-                An high level academic education program with additional activities.
-        
-        - layout: left
-            title: Maastricht School of Management
-            caption: 2020
-            sub_title: Summer School
-            description: | # this will include new lines to allow paragraphs
-                As an activity of the Excellence Program of the Master’s Degree in Physics, I attended the Summer School entitled "Machine Learning and Data Mining with Python".
-
-        - layout: left
+    content:
+      - layout: left
           title: University of Cagliari
-          caption: 2015 - 2018
-          sub_title: Bachelor's Degree in Physics
+          caption: 2020 - present
+          sub_title: PhD in Physics
+          # description: | # this will include new lines to allow paragraphs
+
+      - layout: left
+          title: University of Cagliari
+          caption: 2018 - 2020
+          sub_title: Master's Degree in Physics
           description: | # this will include new lines to allow paragraphs
-              Under the supervision of Prof. Bruno Golosio, I wrote a thesis with title "Computational models of biological neural networks learning through synaptic plasticity".
+              Under the supervision of Prof. Bruno Golosio, I wrote a thesis with title "Large scale simulations of cortical and thalamo-cortical networks of spiking neurons".
+      
+      - layout: left
+          title: University of Cagliari
+          caption: 2020
+          sub_title: Excellence Program of the Master’s Degree in Physics
+          description: | # this will include new lines to allow paragraphs
+              An high level academic education program with additional activities.
+      
+      - layout: left
+          title: Maastricht School of Management
+          caption: 2020
+          sub_title: Summer School
+          description: | # this will include new lines to allow paragraphs
+              As an activity of the Excellence Program of the Master’s Degree in Physics, I attended the Summer School entitled "Machine Learning and Data Mining with Python".
+
+      - layout: left
+        title: University of Cagliari
+        caption: 2015 - 2018
+        sub_title: Bachelor's Degree in Physics
+        description: | # this will include new lines to allow paragraphs
+            Under the supervision of Prof. Bruno Golosio, I wrote a thesis with title "Computational models of biological neural networks learning through synaptic plasticity".
 
   - title: Work Experience and Academic activities # Title for the section
-      layout: list # Type of content section (list/text)
-      content:
-        - layout: left
-          title: University of Cagliari
-          caption: February 2020 - June 2020
-          sub_title: Academic advisor in Physics Laboratory Course
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: University of Cagliari
+        caption: February 2020 - June 2020
+        sub_title: Academic advisor in Physics Laboratory Course
 
-        - layout: left
-          title: INFN Sezione di Cagliari
-          caption: 2023
-          sub_title: ASIMOV prize, member of the committee
-          description: |
-              I partecipated as a member of the scientific committee for the ASIMOV prize.
-              In this regard, I evaluated reviews written by high school students on scientific dissemination books, and I proposed new books for the following edition of the ASIMOV prize.
+      - layout: left
+        title: INFN Sezione di Cagliari
+        caption: 2023
+        sub_title: ASIMOV prize, member of the committee
+        description: |
+            I partecipated as a member of the scientific committee for the ASIMOV prize.
+            In this regard, I evaluated reviews written by high school students on scientific dissemination books, and I proposed new books for the following edition of the ASIMOV prize.
 
   - title: Languages # Title for the section
-      layout: list # Type of content section (list/text)
-      content:
-        - layout: left
-          title: Italian
-          description:
-              Mothertongue
-        - layout: left
-          title: English
-          description:
-              Advanced [[Certification](https://bestr.it/verify/YAC7SPNATF)]
-        - layout: left
-          title: Sardinian
-          description:
-              Advanced
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Italian
+        description:
+            Mothertongue
+      - layout: left
+        title: English
+        description:
+            Advanced [[Certification](https://bestr.it/verify/YAC7SPNATF)]
+      - layout: left
+        title: Sardinian
+        description:
+            Advanced
   
   - title: A Little More About Me
     layout: text
@@ -134,12 +134,12 @@ content:
       - Fountain pens and inks
 
   - title: Miscellaneous
-  layout: text
-  content:
-    - layout: left
-      title: Driving Licence
-      description: |
-          European, Class B
+    layout: text
+    content:
+      - layout: left
+        title: Driving Licence
+        description: |
+            European, Class B
     
       
 
