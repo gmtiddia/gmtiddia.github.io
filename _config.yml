@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Gianmarco and I'm a PhD student in Physics at the University of Cagliari (Italy).
+  Hi, my name's Gianmarco and I'm a PhD student in Physics at the University of Cagliari!
 
   My research interests include the study of the neuronal dynamcis of biological neural networks through spiking neural network simulations and mean-field approaches.
   I contribute to the GPU-based spiking network simulator NEST GPU, implementing several network models and validating the statistical measures of the neural activity against the well-known simulator NEST.
