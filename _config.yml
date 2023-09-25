@@ -91,13 +91,34 @@ content:
         description: | # this will include new lines to allow paragraphs
             Under the supervision of Prof. Bruno Golosio, I wrote a thesis with title "Computational models of biological neural networks learning through synaptic plasticity".
 
+
+  - title: Publications # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+      - Bruno Golosio, Jose Villamar, **Gianmarco Tiddia**, Elena Pastorelli, Jonas Stapmanns, Viviana
+        Fanti, Pier Stanislao Paolucci, Abigail Morrison, and Johanna Senk. Runtime construction of
+        large-scale spiking neuronal network models on gpu devices. Applied Sciences, volume 13, 2023. [doi](https://doi.org/10.3390/app13179598) 
+      - **Gianmarco Tiddia**, Bruno Golosio, Viviana Fanti, and Pier Stanislao Paolucci. Simulations
+        of working memory spiking networks driven by short-term plasticity. Frontiers in Integrative
+        Neuroscience, volume 16, 2022. [doi](https://doi.org/10.3389/fnint.2022.972055) 
+      - **Gianmarco Tiddia**, Bruno Golosio, Jasper Albers, Johanna Senk, Francesco Simula, Jari
+        Pronold, Viviana Fanti, Elena Pastorelli, Pier Stanislao Paolucci, and Sacha J. van Albada.
+        Fast simulation of a multi-area spiking network model of macaque cortex on an MPI-GPU cluster.
+        Frontiers in Neuroinformatics, volume 16, 2022. [doi](https://doi.org/10.3389/fninf.2022.883333) 
+      - Bruno Golosio, **Gianmarco Tiddia**, Chiara De Luca, Elena Pastorelli, Francesco Simula, and
+        Pier Stanislao Paolucci. Fast Simulations of Highly-Connected Spiking Cortical Models Using
+        GPUs. Frontiers in Computational Neuroscience, volume 15, 2021. [doi](https://doi.org/10.3389/fncom.2021.627620)
+
+
   - title: Work Experience and Academic activities # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: University of Cagliari
         caption: February 2020 - June 2020
-        sub_title: Academic advisor in Physics Laboratory Course
+        sub_title: Tutoring
+        description: |
+          Academic advisor in Physics Laboratory Course
 
       - layout: left
         title: INFN Sezione di Cagliari
@@ -134,12 +155,11 @@ content:
       - Fountain pens and inks
 
   - title: Miscellaneous
-    layout: text
+    layout: list
     content:
       - layout: left
         title: Driving Licence
-        description: |
-            European, Class B
+        description: European, Class B
     
       
 
