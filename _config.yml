@@ -119,7 +119,16 @@ content:
       - Bruno Golosio, **Gianmarco Tiddia**, Chiara De Luca, Elena Pastorelli, Francesco Simula, and
         Pier Stanislao Paolucci. Fast Simulations of Highly-Connected Spiking Cortical Models Using
         GPUs. Frontiers in Computational Neuroscience, volume 15, 2021. [doi](https://doi.org/10.3389/fncom.2021.627620)
-
+  
+  - title: Preprints # Title for the section
+    layout: text # Type of content section (list/text)
+    content: |
+      - **Gianmarco Tiddia**, Luca Sergi, and Bruno Golosio. A theoretical framework for learning 
+        through structural plasticity. arXiv:2307.11735 [q-bio.NC] [doi](https://doi.org/10.48550/arXiv.2307.11735)
+      - Chiara De Luca, Leonardo Tonielli, Elena Pastorelli, Cristiano Capone, Francesco Simula, 
+        Cosimo Lupo, Irene Bernava, Giulia De Bonis, **Gianmarco Tiddia**, Bruno Golosio, and Pier Stanislao Paolucci.
+        NREM and REM: cognitive and energetic gains in thalamo-cortical sleeping and awake spiking model.	
+        arXiv:2211.06889 [q-bio.NC] [doi](https://doi.org/10.48550/arXiv.2211.06889)
 
   - title: Work Experience and Academic activities # Title for the section
     layout: list # Type of content section (list/text)
@@ -179,6 +188,27 @@ content:
       - English: Advanced [[Certificate](https://bestr.it/verify/YAC7SPNATF)]
       - Sardinian: Advanced
   
+  - title: Computer skills # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+
+      - layout: left
+        title: OS
+        description: Microsoft Wondows (Advanced), Linux (Advanced), MacOS (Intermediate)
+      
+      - layout: left
+        title: Software
+        description: ROOT (Intermediate), LabVIEW (Beginner), Microsoft Office suite (Advanced)
+        
+      - layout: left
+        title: Programming
+        description: Python (Advanced), Matlab (Advanced), C++ (Intermediate), CUDA (Beginner)
+      
+      - layout: left
+        title: Markup languages
+        description: LaTeX (Advanced), Markdown (Advanced)
+
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
