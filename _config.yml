@@ -209,15 +209,15 @@ content:
         description: LaTeX (Advanced), Markdown (Advanced)
 
 
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my research interests, some of my other interests and hobbies are:
-      - LEGO
-      - Gaming
-      - Photography
-      - Mechanical watches
-      - Fountain pens and inks
+  #- title: A Little More About Me
+  #  layout: text
+  #  content: | # this will include new lines to allow paragraphs
+  #    Alongside my research interests, some of my other interests and hobbies are:
+  #    - LEGO
+  #    - Gaming
+  #    - Photography
+  #    - Mechanical watches
+  #    - Fountain pens and inks
 
   - title: Miscellaneous
     layout: list
