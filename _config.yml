@@ -63,7 +63,7 @@ content:
         caption: 2020 - present
         sub_title: University of Cagliari
         description: | 
-            Thesis title: "Large-scale neuronal networks: from simulation technology to the study of plasticity-driven cognitive processes" [link](https://zenodo.org/doi/10.5281/zenodo.10245798).
+            Thesis title: "Large-scale neuronal networks: from simulation technology to the study of plasticity-driven cognitive processes". [[Link](https://zenodo.org/doi/10.5281/zenodo.10245798)]
 
       - layout: left
         title: Research Stay
@@ -133,9 +133,10 @@ content:
     content:
 
       - layout: left
-        title: ASIMOV prize 2023, member of the Scientific Committee
+        title: ASIMOV prize 2023
         caption: 2023
         sub_title: INFN Sezione di Cagliari
+        description: Partecipation as member of the Scientific Committee.
 
       - layout: left
         title: NEST Conference 2023
@@ -162,7 +163,7 @@ content:
         title: GIDRM Workshop
         caption: March 2021
         description: Partecipation at the GIDRM Workshop "The promises and Dark Sides
-          of Artificial Intelligence in NMR, MRI and Neuroscience" (online). [[Certificate](/certifications/GIDRM2021.pdf)]
+          of Artificial Intelligence in NMR, MRI and Neuroscience" (online).
 
       - layout: left
         title: Tutoring
