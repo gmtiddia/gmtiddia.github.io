@@ -50,8 +50,8 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Gianmarco and I'm a PhD student in Physics at the University of Cagliari!
 
-  My research interests include the study of the neuronal dynamcis of biological neural networks through spiking neural network simulations and mean-field approaches.
-  I contribute to the GPU-based spiking network simulator NEST GPU, implementing several network models and validating the statistical measures of the neural activity against the well-known simulator NEST.
+  My research interests include the study of the neuronal dynamcis of biological neural networks through spiking neural network simulations and mean-field approaches. In particular, I'm interested in understanding the relation between low-level synaptic mechanisms (like short-term plasticity and structural plasticity) and high-level cognitive processes, such as working memory and learning.
+  I contribute to the GPU-based spiking network simulator NEST GPU, implementing several network models, curating the documentation and validating the statistical measures of the neural activity against the well-known simulator NEST.  
 
   
 content:
@@ -62,42 +62,40 @@ content:
         title: PhD in Physics
         caption: 2020 - present
         sub_title: University of Cagliari
-        # description: | # this will include new lines to allow paragraphs
+        description: | 
+            Thesis title: "Large-scale neuronal networks: from simulation technology to the study of plasticity-driven cognitive processes" [link](https://zenodo.org/doi/10.5281/zenodo.10245798).
 
       - layout: left
         title: Research Stay
         caption: 21 September 2022 - 28 March 2023
         sub_title: Forschungszentrum Jülich
-        description: Research stay at INM-6, in the group of Computational Neurophysics under the supervision of Dr. Tom Tetzlaff, as part of the PhD program.
+        description: Research stay at INM-6, in the group of Computational Neurophysics, as part of the PhD program.
 
       - layout: left
         title: Master's Degree in Physics
         caption: 2018 - 2020
         sub_title: University of Cagliari
         description: | # this will include new lines to allow paragraphs
-            Under the supervision of Prof. Bruno Golosio, I wrote a thesis with title "Large scale simulations of cortical and thalamo-cortical networks of spiking neurons".
+            Thesis title: "Large scale simulations of cortical and thalamo-cortical networks of spiking neurons".
       
       - layout: left
         title: Excellence Program of the Master’s Degree in Physics
         caption: 2020
         sub_title: University of Cagliari
         description: | # this will include new lines to allow paragraphs
-            An high level academic education program with additional activities. [[Certificate](/certifications/percorso_eccellenza.pdf)]
+            An high level academic education program with additional activities.
       
       - layout: left
         title: Summer School
         caption: 2020
         sub_title: Maastricht School of Management
         description: | # this will include new lines to allow paragraphs
-            As an activity of the Excellence Program of the Master’s Degree in Physics, I attended the Summer School entitled "Machine Learning and Data Mining with Python". [[Certificate](/certifications/Summer_School_Maastricht.pdf)]
+            As an activity of the Excellence Program of the Master’s Degree in Physics, I attended the Summer School entitled "Machine Learning and Data Mining with Python".
 
       - layout: left
         title: Bachelor's Degree in Physics
         caption: 2015 - 2018
         sub_title: University of Cagliari
-        description: | # this will include new lines to allow paragraphs
-            Under the supervision of Prof. Bruno Golosio, I wrote a thesis with title "Computational models of biological neural networks learning through synaptic plasticity".
-
 
   - title: Publications # Title for the section
     layout: text # Type of content section (list/text)
@@ -135,42 +133,34 @@ content:
     content:
 
       - layout: left
-        title: ASIMOV prize, member of the committee
+        title: ASIMOV prize 2023, member of the Scientific Committee
         caption: 2023
         sub_title: INFN Sezione di Cagliari
-        description: |
-            I partecipated as a member of the scientific committee for the ASIMOV prize.
-            In this regard, I evaluated reviews written by high school students on scientific dissemination books, and I proposed new books for the following edition of the ASIMOV prize. [[Certificate](/certifications/ASIMOV2023.pdf)]
 
       - layout: left
-        title: NEST Conference
+        title: NEST Conference 2023
         caption: 15 June 2023 - 16 June 2023
-        sub_title: Partecipation
-        description: Partecipation at the NEST Conference (online). [[Certificate](/certifications/NEST_Conference_2023.pdf)]
+        description: Partecipation at the NEST Conference (online).
 
       - layout: left
-        title: NEST Conference
+        title: NEST Conference 2022
         caption: 23 June 2022 - 24 June 2022
         sub_title: Talk
         description: Partecipation at the NEST Conference (online) presenting the talk "MPI parallel simulation of a multi-area spiking network model using NEST GPU".
-          [[Certificate](/certifications/NEST_Conference_2022.pdf)]
 
       - layout: left
         title: BASSES Workshop
         caption: 13 June 2022 - 15 June 2022
-        sub_title: Partecipation
-        description: Partecipation at the BASSES Workshop in Rome. [[Certificate](/certifications/certificate_attendance_BASSES.pdf)]
+        description: Partecipation at the BASSES Workshop in Rome.
 
       - layout: left
-        title: NEST Conference
+        title: NEST Conference 2021
         caption: 28 June 2021 - 29 June 2021
-        sub_title: Partecipation
-        description: Partecipation at the NEST Conference (online). [[Certificate](/certifications/NEST_Conference_2021.pdf)]
+        description: Partecipation at the NEST Conference (online).
 
       - layout: left
         title: GIDRM Workshop
         caption: March 2021
-        sub_title: Partecipation
         description: Partecipation at the GIDRM Workshop "The promises and Dark Sides
           of Artificial Intelligence in NMR, MRI and Neuroscience" (online). [[Certificate](/certifications/GIDRM2021.pdf)]
 
@@ -194,7 +184,7 @@ content:
 
       - layout: left
         title: OS
-        description: Microsoft Wondows (Advanced), Linux (Advanced), MacOS (Intermediate)
+        description: Microsoft Windows (Advanced), Linux (Advanced), MacOS (Intermediate)
       
       - layout: left
         title: Software
@@ -206,7 +196,7 @@ content:
       
       - layout: left
         title: Markup languages
-        description: LaTeX (Advanced), Markdown (Advanced)
+        description: LaTeX (Advanced), Markdown (Advanced), HTML (Beginner)
 
 
   #- title: A Little More About Me
